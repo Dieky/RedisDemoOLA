@@ -1,5 +1,6 @@
 # RedisDemoOLA
-
+## Configuration 1:
+https://docs.google.com/document/d/188KZNe7CzPDmywjX27i224bjTKPgmP7Y-J2U-4fX1Tk/edit?tab=t.0#heading=h.7chs4gpvmsve 
 ## Configuration 4: Redis Security
 ### Objective: To demonstrate how to set up security features in Redis.
 Scenario: The company wants to ensure that user data is secure and can only be accessed by
